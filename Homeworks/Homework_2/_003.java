@@ -9,11 +9,6 @@
 
 package Homeworks.Homework_2;
 
-import java.io.File;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Scanner;
-
 public class _003 {
     public static void main(String[] args) {
         String json = "[{\"фамилия\":\"Иванов\",\"оценка\":\"5\",\"предмет\":\"Математика\"}," +
